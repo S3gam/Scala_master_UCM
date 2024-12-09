@@ -1,0 +1,10 @@
+[debug] > Exec(console, None, None)
+[debug] Evaluating tasks: Compile / console
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Scala source to C:\Users\Nitropc\IdeaProjects\ejemplo_scala\target\scala-2.13\classes ...
+[info] Non-compiled module 'compiler-bridge_2.13' for Scala 2.13.15. Compiling...
+[info]   Compilation completed in 7.893s.
+[info] done compiling
+[info] Starting scala interpreter...
+[success] Total time: 10 s, completed 04-dic-2024 20:19:17
+[debug] > Exec(idea-shell, None, None)
