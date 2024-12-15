@@ -1,4 +1,5 @@
-package com.ntic.clases.planner
+package com.ntic.classes.planner
+
 
 class Time (val hours: Int = 0, val minutes: Int = 0) {
   val asMinutes = (hours * 60) + minutes
